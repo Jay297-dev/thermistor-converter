@@ -57,8 +57,7 @@ _Note: For higher precision over wide temperature ranges, the full Steinhart-Har
 
 You can access the live web app (PWA) here:
 
-[**Live Demo (GitHub Pages)**](https://yourusername.github.io/thermistor-converter/)
-*(Replace `yourusername` with your actual GitHub username and `thermistor-converter` with your repository name if different)*
+[**Live Demo (GitHub Pages)**](https://jay297-dev.github.io/thermistor-converter/)
 
 ## Installation (PWA)
 
